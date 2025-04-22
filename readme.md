@@ -1,5 +1,7 @@
 ummm.... i was bored
 
+(Old project of mine)
+
 A simple program to visually connect points based on user-defined edges using raylib.  
 Originally created to avoid manually drawing graphs based on input data (to avoid drawing on paper)
 
